@@ -34,17 +34,43 @@ Currently Pursuing:
 
 Here are some projects I’ve completed to strengthen my DevOps and SecOps skills. Many of these are inspired by the [Roadmap.sh](https://roadmap.sh/devops) DevOps learning path:
 
-### 🔹 [Static Site Server](https://github.com/your-username/static-site-server)
+### 🔹 [Static Site Server](https://github.com/TLowest/static-site-server)
 Provisioned and secured an EC2 instance on AWS to host a static HTML/CSS website using **Nginx** and **rsync** for deployment. Demonstrates Linux server setup, SSH hardening, and Nginx configuration.
 
-### 🔹 [Server Performance Stats](https://github.com/your-username/server-stats)
+### 🔹 [Server Performance Stats](https://github.com/TLowest/server-performance-stats)
 A lightweight Bash utility to monitor **CPU**, **memory**, **disk usage**, and more on Linux systems. Designed for CLI environments and Cron integration.
 
-### 🔹 [Simple Monitoring with Netdata](https://github.com/your-username/netdata-monitoring)
+### 🔹 [Simple Monitoring with Netdata](https://github.com/TLowest/simple-monitoring-netdata)
 Implemented real-time system health dashboards using **Netdata** to visualize system metrics in a home lab environment.
 
-### 🔹 [File Integrity Checker](https://github.com/your-username/file-integrity-checker)
+### 🔹 [File Integrity Checker](https://github.com/TLowest/file-integrity-checker)
 Built a secure Bash script that computes **SHA-256** hashes of critical log files to detect unauthorized changes. Ideal for basic **intrusion detection** in Linux environments.
+
+--- 
+
+## 🔍 What I'm Working On
+
+I'm currently expanding my hands-on skills by building out real-world, infrastructure-focused projects that bridge cybersecurity, DevOps, and system administration:
+
+- ⚙️ **Configuration Management**  
+  Writing an Ansible playbook to automate the setup of a Linux server — installing packages, configuring services, and establishing baseline security controls. A foundational project in infrastructure as code (IaC).
+
+- 🐳 **Multi-Container Application with Docker Compose**  
+  Using Docker Compose to orchestrate a Node.js application with a MongoDB backend, simulating a basic microservice deployment suitable for production environments.
+
+- 📊 **Prometheus and Grafana Monitoring Stack**  
+  Deploying a comprehensive monitoring solution using Prometheus for metrics collection and Grafana for visualization. The system provides real-time performance and resource insights across Linux servers.
+
+- 🧱 **Multi-Service Docker Application**  
+  Simulating a real-world application stack using a modular Docker setup:
+  - **Frontend:** React-based web interface  
+  - **Backend API:** Node.js with Express  
+  - **Database:** MongoDB for persistent storage  
+  - **Cache:** Redis for response speed optimization  
+  - **Reverse Proxy:** Nginx to route and secure traffic  
+  Includes advanced Docker techniques like multi-stage builds, volume management, custom base images, and secret handling.
+
+These projects are helping me refine key SecOps and DevSecOps concepts while reinforcing skills in automation, observability, and secure service deployment.
 
 ---
 
