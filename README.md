@@ -18,11 +18,14 @@ To support this vision, I’m building a comprehensive portfolio that reflects b
 
 ## 🏅 Certifications 
 
+[<img src="https://github.com/user-attachments/assets/63945292-bae0-4492-8bb7-2df0f654a0bf" alt="CompTIA Linux+" height="150" />](https://www.credly.com/badges/fe28b157-8ba5-4a4f-99b9-fb51b6725b4a/public_url)
 [<img src="https://github.com/user-attachments/assets/eb5cd310-c57e-4cd8-bc81-fec6b3977571" alt="CompTIA Security+" height="150" />](https://www.credly.com/badges/ce272c7f-52e7-472f-a87e-92a0c57006e4/public_url)
 [<img src="https://github.com/user-attachments/assets/c5c30858-0173-454d-97bd-59056a332aa7" alt="CompTIA CySA+" height="150" />](https://www.credly.com/badges/d298627b-fda1-416c-a17f-76161e137d74/public_url)
 [<img src="https://github.com/user-attachments/assets/83b1899f-0f15-48a3-a107-d2e3a957c0cd" alt="CompTIA CSAP" height="150" />](https://www.credly.com/badges/4ee5ab72-4c56-4a7c-b960-2ed94a8933af/public_url)
 
-Currently Pursuing: 
+
+**Currently Pursuing:** 
+
 
 <img src="https://github.com/user-attachments/assets/f7660d0f-d113-4016-a064-90c34c02c167" alt="AWS CCP" height="150" />
 <img src="https://github.com/user-attachments/assets/eabaa910-3d52-4b27-88ac-bade8a56deb4" alt="EC-Council CEH" height="150" />
@@ -34,8 +37,8 @@ Currently Pursuing:
 
 Here are some projects I’ve completed to strengthen my DevOps and SecOps skills. Many of these are inspired by the [Roadmap.sh](https://roadmap.sh/devops) DevOps learning path:
 
-### 🔹 [Static Site Server](https://github.com/TLowest/static-site-server)
-Provisioned and secured an EC2 instance on AWS to host a static HTML/CSS website using **Nginx** and **rsync** for deployment. Demonstrates Linux server setup, SSH hardening, and Nginx configuration.
+### 🔹 [Active Directory IAM](https://github.com/TLowest/active-directory-iam)
+A hands-on Active Directory IAM lab built using **VituralBox**, **Windows Server 2019**, and **Windows 10**. This project documents setup, troubleshooting, and Powershell-based automation for scalable user management and secure domain policy enforcement. 
 
 ### 🔹 [Server Performance Stats](https://github.com/TLowest/server-performance-stats)
 A lightweight Bash utility to monitor **CPU**, **memory**, **disk usage**, and more on Linux systems. Designed for CLI environments and Cron integration.
