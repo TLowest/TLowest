@@ -64,14 +64,7 @@ I'm currently expanding my hands-on skills by building out real-world, infrastru
 - 📊 **Prometheus and Grafana Monitoring Stack**  
   Deploying a comprehensive monitoring solution using Prometheus for metrics collection and Grafana for visualization. The system provides real-time performance and resource insights across Linux servers.
 
-- 🧱 **Multi-Service Docker Application**  
-  Simulating a real-world application stack using a modular Docker setup:
-  - **Frontend:** React-based web interface  
-  - **Backend API:** Node.js with Express  
-  - **Database:** MongoDB for persistent storage  
-  - **Cache:** Redis for response speed optimization  
-  - **Reverse Proxy:** Nginx to route and secure traffic  
-  Includes advanced Docker techniques like multi-stage builds, volume management, custom base images, and secret handling.
+
 
 These projects are helping me refine key SecOps and DevSecOps concepts while reinforcing skills in automation, observability, and secure service deployment.
 
